@@ -1,0 +1,12 @@
+str= "Bamboozled"
+print(str[0:6:1])
+print(str[0::3])
+print(str[4:])
+print(str[:5])
+print(str[:5])
+print(str[0:10])
+print(str[-8:0])
+print(str[0:6:2])
+print(str[::-1])
+print(str[0:20])
+print(str[20:1])
